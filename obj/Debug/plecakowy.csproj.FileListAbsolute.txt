@@ -1,0 +1,10 @@
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\bin\Debug\plecakowy.exe.config
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\bin\Debug\plecakowy.exe
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\bin\Debug\plecakowy.pdb
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\bin\Debug\BouncyCastle.Crypto.dll
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\obj\Debug\plecakowy.Form1.resources
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\obj\Debug\plecakowy.Properties.Resources.resources
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\obj\Debug\plecakowy.csproj.GenerateResource.Cache
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\obj\Debug\plecakowy.exe
+d:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\obj\Debug\plecakowy.pdb
+D:\_Bialy\Dropbox\Studia\6_Semestr\AiMK\lab7\plecakowy\obj\Debug\plecakowy.csprojResolveAssemblyReference.cache
